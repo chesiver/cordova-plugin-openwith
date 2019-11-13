@@ -29,7 +29,7 @@
 // THE SOFTWARE.
 //
 
-const PLUGIN_ID = 'cordova-plugin-openwith-cxm';
+const PLUGIN_ID = 'cordova-plugin-openwith-cxm2';
 const BUNDLE_SUFFIX = '.shareextension';
 
 var fs = require('fs');
